@@ -1,0 +1,14 @@
+
+h3:nth-child(odd)
+{
+    width: fit-content;
+    background: rgb(132, 34, 230);
+    text-align: center;
+    color: cadetblue;
+}
+h3:nth-child(even)
+{
+    width: fit-content;
+    background:#00ced1;
+    color: rgb(150, 23, 112);
+}
